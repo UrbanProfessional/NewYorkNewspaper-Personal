@@ -1,24 +1,53 @@
 .page {
-  width:
-  height:
+  width: 360px;
+  margin-left: 0px;
+  padding: 20px 20px 20px 20px;
+  background-color: rgb(181, 181, 181);
+  box-shadow: 1px 1px black;
+  border-radius: 1px 1px;
 }
 
 #article_title {
-
+  font-family: 'Anton';
+  font-size: 30px;
+  letter-spacing: 5px;
+  margin-top: 0px;
+  color: rgb(70, 0, 0);
+  text-shadow: 1px 1px black;
 }
 
 #intro {
-
+  font-family: 'Oswald';
+  line-height: 40px;
+  font-weight: 5000;
+  color: rgb(117, 0, 0);
 }
 
 .question{
-
+  font-family: 'Railway', sans-serif;
+  color: rgb(59, 73, 87);
+  margin-bottom: 2px;
+  
 }
 
 .answer{
-
+  font-family: 'Railway', sans-serif;
+  font-weight: 500;
+  color: rgb(59, 73, 87);
+  margin-top: 2px;
 }
 
 #block_quote {
-
+  color: rgb(117, 0, 0);
+  font-family: 'Oswald';
+  font-size: 20px;
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 7px;
+  border-left: 1px;
+  border-color:  rgb(181, 181, 181);
+  border-left-color:  black;
+  border-style: solid;
 }
